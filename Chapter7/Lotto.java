@@ -10,3 +10,4 @@ public class Lotto {
 	public void init2() {
 		int[] lottoNumber = {1, 2, 3, 4, 5, 6};
 	}
+}
